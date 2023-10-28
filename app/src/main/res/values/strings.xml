@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">AnswerMe</string>
+    <string name="app_name">Answer Me</string>
+    <string name="question">What is your question oni-chan?</string>
+    <string name="send">Send</string>
 </resources>
